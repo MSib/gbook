@@ -150,6 +150,7 @@ fieldset {
   margin: 0;
   padding: 0;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
   border: none;
