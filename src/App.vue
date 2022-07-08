@@ -41,10 +41,11 @@ function onCloseBook(e) {
 <style>
 .app {
   position: relative;
+  transition: filter 0.2s ease-out;
 }
 
 .app--openbook {
-  filter: blur(1px);
+  filter: blur(2px);
 }
 
 .open-book {
@@ -54,6 +55,13 @@ function onCloseBook(e) {
   right: 0;
   bottom: 0;
   background-color: #0005;
-  padding: 20px;
+  padding: 30px;
+}
+
+@media (max-width: 400px) {
+  .open-book {
+    padding: 20px;
+
+  }
 }
 </style>

@@ -1,16 +1,11 @@
 <script setup>
 import { useAppStore } from '@/stores/app'
 import { storeToRefs } from 'pinia'
+import { stringsArrayToString } from '@/utils'
 
 const storeApp = useAppStore()
 const { result } = storeToRefs(storeApp)
 const { setResult, setOpenBook } = storeApp
-
-function stringsArrayToString(array) {
-  return (array && Array.isArray(array))
-    ? array.join(', ')
-    : ''
-}
 
 function openBook(e) {
   const etag = e.target.dataset.etag
