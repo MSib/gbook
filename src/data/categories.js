@@ -1,0 +1,15 @@
+export default [
+  ['Architecture', 'Архитектура'],
+  ['Children', 'Дети'],
+  ['Computers', 'Компьютеры'],
+  ['Cooking', 'Приготовление еды'],
+  ['Crafts & Hobbies', 'Ремесла и хобби'],
+  ['Education', 'Образование'],
+  ['Medical', 'Медицина'],
+  ['Music', 'Музыка'],
+  ['Poetry', 'Поэзия'],
+  ['Psychology', 'Психология'],
+  ['Religion', 'Религия'],
+  ['Science', 'Наука'],
+  ['Travel', 'Путешествия'],
+]

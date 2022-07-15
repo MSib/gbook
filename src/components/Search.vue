@@ -4,7 +4,8 @@ export default {
   methods: {
     // API doc: https://developers.google.com/books/docs/v1/using
     checkData(data) {
-      if (data?.items) {
+      const isEmptyItems = data?.totalItems === 0
+      if (data?.items || isEmptyItems) {
         // success
         this.setResult(data)
       } else {
@@ -56,14 +57,14 @@ export default {
           throw new Error('Пустой запрос');
         }
 
-        if (formData.get('category') !== this.categoryParamEmptyValue) {
-          query += `+${this.categoryParam}:${formData.get('category')}`
+        if (formData.get('category') !== this.params.category.default) {
+          query += `+${this.params.category.name}:${formData.get('category')}`
 
         }
 
-        url.searchParams.set(this.searchParam, query)
-        if (formData.get('sort') !== this.sortParamDefaultValue) {
-          url.searchParams.set(this.sortParam, formData.get('sort'))
+        url.searchParams.set(this.params.search.name, query)
+        if (formData.get('sort') !== this.params.sort.default) {
+          url.searchParams.set(this.params.search.name, formData.get('sort'))
         }
 
         this.send(url.href)
@@ -80,37 +81,19 @@ export default {
 </script>
 
 <script setup>
-import { useAppStore } from '@/stores/app'
+import { useSearchStore } from '@/stores/search'
 import { storeToRefs } from 'pinia'
-const storeApp = useAppStore()
-const { result, error } = storeToRefs(storeApp)
-const { api, setResult, clearResult, setError, clearError } = storeApp
-const searchParam = 'q'
-const sortParam = 'orderBy'
-const sortParamDefaultValue = 'relevance'
-const categoryParam = 'subject'
-const categoryParamEmptyValue = 'empty'
-const categories = [
-  ['Architecture', 'Архитектура'],
-  ['Children', 'Дети'],
-  ['Computers', 'Компьютеры'],
-  ['Cooking', 'Приготовление еды'],
-  ['Crafts & Hobbies', 'Ремесла и хобби'],
-  ['Education', 'Образование'],
-  ['Medical', 'Медицинский'],
-  ['Music', 'Музыка'],
-  ['Poetry', 'Поэзия'],
-  ['Psychology', 'Психология'],
-  ['Religion', 'Религия'],
-  ['Science', 'Наука'],
-  ['Travel', 'Путешествовать'],
-]
+import categories from '@/data/categories';
+const storeSearch = useSearchStore()
+const { result, error } = storeToRefs(storeSearch)
+const { api, params, setResult, clearResult, setError, clearError } = storeSearch
 </script>
 
 <template>
   <form @submit.prevent="onSubnit" ref="form">
     <fieldset>
-      <input @keydown.esc.stop="clearInput" ref="input" type="text" name="search" id="search">
+      <input @keydown.esc.stop="clearInput" :required="params.search.required" ref="input" type="text" name="search"
+        id="search">
       <button type="submit">Найти</button><br>
     </fieldset>
     <fieldset class="search-features">

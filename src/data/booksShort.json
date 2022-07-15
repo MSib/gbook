@@ -1,0 +1,506 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 871,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "UYNMAAAAMAAJ",
+      "etag": "pjxoHpQB5r8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UYNMAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Flowers Chronicles",
+        "subtitle": "Studies of Captain John Flower II, 1595-1657, Mariner of London, Bermuda, and Virginia, and Some of His Descendants in the American South",
+        "authors": [
+          "Pugh Brown Flowers"
+        ],
+        "publishedDate": "1987",
+        "description": "John Flower II (1595-1657) was a son of John and Katherine Flower of Ratcliffe, England, and was captain of various ships sailing between England, Bermuda, Virginia and Newfoundland. By 1645 he acquired land in Virginia, although he continued as a ship captain and died in England. John Flower (b.1624) and Jacob Flower (b.1635), two sons of John Flower II, emigrated in 1656 from England to the land purchased by their father in what is now Surry County, Virginia. Descendants (chiefly spelling the surname Flowers) and relatives lived in Virginia, North Carolina, Tennessee, South Carolina, Georgia, Florida, Alabama, Texas and elsewhere. Includes some ancestral records and genealogical data in England to ca. 1542.",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UYNMAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UYNMAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ru/books?id=UYNMAAAAMAAJ&q=flowers&dq=flowers&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=UYNMAAAAMAAJ&dq=flowers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Flowers_Chronicles.html?hl=&id=UYNMAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "APPENDIX A THE CHRISTOPHER \u003cb\u003eFLOWER\u003c/b\u003e FAMILY OF STEPNEY PARISH AND THE LANCASTER - \u003cb\u003eFLOWER\u003c/b\u003e CONNECTION Christopher \u003cb\u003eFlower\u003c/b\u003e of Ratcliffe, shipwright, married Elizabeth Lancaster on October 10, 1565 at the Church of St. Dunstan in the East,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Pv1eUCKdP-QC",
+      "etag": "5IHEf/dHoos",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Pv1eUCKdP-QC",
+      "volumeInfo": {
+        "title": "Caring for Cut Flowers",
+        "authors": [
+          "Rod Jones"
+        ],
+        "publisher": "Landlinks Press",
+        "publishedDate": "2001",
+        "description": "Caring for Cut Flowers shows florists and growers how to make cut flowers last longer. While proper postharvest techniques will not magically transform poor quality flowers into first class material, a few basic, inexpensive techniques can maximise the vase life of good quality material.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Pv1eUCKdP-QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Pv1eUCKdP-QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ru/books?id=Pv1eUCKdP-QC&pg=PA4&dq=flowers&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=Pv1eUCKdP-QC&dq=flowers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Caring_for_Cut_Flowers.html?hl=&id=Pv1eUCKdP-QC"
+      },
+      "saleInfo": {
+        "country": "RU"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "HUMIDITY Most \u003cb\u003eflowers\u003c/b\u003e should be kept in air with a high relative humidity ( 90 to 95 % ) to prevent them from drying out . Humidity refers to the amount of water in the air . Humid days are those when the air contains high levels of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nMI_AAAAYAAJ",
+      "etag": "U6ElW0JJLXY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nMI_AAAAYAAJ",
+      "volumeInfo": {
+        "title": "Flowers in Winter",
+        "authors": [
+          "Patrick Millington Synge"
+        ],
+        "publishedDate": "1948",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nMI_AAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nMI_AAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ru/books?id=nMI_AAAAYAAJ&q=flowers&dq=flowers&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=nMI_AAAAYAAJ&dq=flowers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Flowers_in_Winter.html?hl=&id=nMI_AAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "RU"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "With \u003cb\u003eflowers\u003c/b\u003e of brightest gentian blue in February and March the Scillas are most valuable for planting in patches over the rock garden and will grow up happily through mats of other prostrate plants. The earliest to \u003cb\u003eflower\u003c/b\u003e is Scilla&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NtTqAAAAMAAJ",
+      "etag": "0EFTWTtfkS0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NtTqAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Flowers and Nature",
+        "subtitle": "Netherlandish Flower Painting of Four Centuries",
+        "authors": [
+          "Sam Segal"
+        ],
+        "publisher": "Seven Hills Books",
+        "publishedDate": "1990",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NtTqAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NtTqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ru/books?id=NtTqAAAAMAAJ&q=flowers&dq=flowers&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=NtTqAAAAMAAJ&dq=flowers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Flowers_and_Nature.html?hl=&id=NtTqAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "Netherlandish \u003cb\u003eFlower\u003c/b\u003e Painting of Four Centuries Sam Segal. flowerings of the prolific stock of Dutch seventeenth - century painting , an art which contemporary opinion regarded as having fallen into a sorry state ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vOtaAAAAQAAJ",
+      "etag": "/ccTddpeLgA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vOtaAAAAQAAJ",
+      "volumeInfo": {
+        "title": "The English Flower Garden and Home Grounds",
+        "subtitle": "Of Hardy Trees and Flowers Only",
+        "authors": [
+          "William Robinson"
+        ],
+        "publishedDate": "1933",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vOtaAAAAQAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vOtaAAAAQAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ru/books?id=vOtaAAAAQAAJ&q=flowers&dq=flowers&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=vOtaAAAAQAAJ&dq=flowers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_English_Flower_Garden_and_Home_Groun.html?hl=&id=vOtaAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "RU"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "The leaves are in whorls and the unusually thick petalled \u003cb\u003eflowers\u003c/b\u003e of bright orange , spotted with brown , are often 12 in number . This Lily revels either in sun or shade , but the leaves retain their freshness longer in the latter ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vAlIAAAAYAAJ",
+      "etag": "AYhR96qWTv0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vAlIAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Commercial Field Production of Cut and Dried Flowers",
+        "subtitle": "A National Symposium, December 6-8, 1988",
+        "publishedDate": "1988",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vAlIAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vAlIAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ru/books?id=vAlIAAAAYAAJ&pg=PP138&dq=flowers&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=vAlIAAAAYAAJ&dq=flowers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Commercial_Field_Production_of_Cut_and_D.html?hl=&id=vAlIAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "RU"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pPtBEQIEHHcC",
+      "etag": "+s3HBswC86g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pPtBEQIEHHcC",
+      "volumeInfo": {
+        "title": "Industry and Trade Summary: Cut Flowers",
+        "publisher": "DIANE Publishing",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pPtBEQIEHHcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pPtBEQIEHHcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ru/books?id=pPtBEQIEHHcC&pg=PA15&dq=flowers&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=pPtBEQIEHHcC&dq=flowers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Industry_and_Trade_Summary_Cut_Flowers.html?hl=&id=pPtBEQIEHHcC"
+      },
+      "saleInfo": {
+        "country": "RU"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Industry_and_Trade_Summary_Cut_Flowers-sample-pdf.acsm?id=pPtBEQIEHHcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Cut \u003cb\u003eflowers\u003c/b\u003e are promoted generically through industry associations and other voluntary organizations. The Society of American Florists (SAF) administrates the Floral Marketing Council (FMC), the largest voluntary public relations&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "URlCAAAAYAAJ",
+      "etag": "74t0fEmbUNk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/URlCAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Principles of Flower Arrangement",
+        "authors": [
+          "Edward Albert White"
+        ],
+        "publishedDate": "1936",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=URlCAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=URlCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ru/books?id=URlCAAAAYAAJ&q=flowers&dq=flowers&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=URlCAAAAYAAJ&dq=flowers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Principles_of_Flower_Arrangement.html?hl=&id=URlCAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "RU"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "171 Exhibitions in America of commercial varieties of cut \u003cb\u003eflowers\u003c/b\u003e. ... 47 \u003cb\u003eFlowers\u003c/b\u003e, as birth gifts, 193; for personal adornment. ... 15 Garden \u003cb\u003eflowers\u003c/b\u003e for decorations, List of perennial, 51; annual, 53; dried, 29."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eMIzDwAAQBAJ",
+      "etag": "+FEF/SasQZo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eMIzDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Flowers 51",
+        "subtitle": "",
+        "authors": [
+          "Dr. Harpal Sodhi"
+        ],
+        "publisher": "Harpal Sodhi",
+        "description": "Fifty one photographs of unique flowers, could be used for calendars, posters, fabric prints and more.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eMIzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eMIzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ru/books?id=eMIzDwAAQBAJ&pg=PA4&dq=flowers&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=eMIzDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eMIzDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "listPrice": {
+          "amount": 279.04,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 279.04,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=eMIzDwAAQBAJ&rdid=book-eMIzDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 279040000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 279040000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Flowers_51-sample-pdf.acsm?id=eMIzDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eFlowers\u003c/b\u003e are often used to express certain emotions. They are used as a symbol of love and friendship. Its true \u003cb\u003eflowers\u003c/b\u003e emit positive energy. This is a picture book of very beautiful variety of \u003cb\u003eflowers\u003c/b\u003e. It is the food for the eyes and&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nF0EAAAAYAAJ",
+      "etag": "/omHvhA3GlQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nF0EAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Flowers Personified",
+        "subtitle": "Being a Translation of Grandville's \"Les Fleurs Animées.\"",
+        "authors": [
+          "J. J. Grandville",
+          "Nehemiah Cleaveland"
+        ],
+        "publishedDate": "1849",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nF0EAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nF0EAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ru/books?id=nF0EAAAAYAAJ&pg=PA168&dq=flowers&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nF0EAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nF0EAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "buyLink": "https://play.google.com/store/books/details?id=nF0EAAAAYAAJ&rdid=book-nF0EAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/The_Flowers_Personified.epub?id=nF0EAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.ru/books/download/The_Flowers_Personified.pdf?id=nF0EAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0RFfFGoP6FpJUfHPmoxJoJ6Qzt7Q&source=gbs_api"
+        },
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+      },
+      "searchInfo": {
+        "textSnippet": "THE \u003cb\u003eFLOWER\u003c/b\u003e OF REMEMBRANCE . A \u003cb\u003eFLOWER\u003c/b\u003e had fallen from her tresses , and he was about to pick it up , but she stopped him . &quot; Leave it , ” said she ; “ leave the \u003cb\u003eflower\u003c/b\u003e which the wind has taken , and accept this ."
+      }
+    }
+  ]
+}

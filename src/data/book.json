@@ -1,0 +1,81 @@
+{
+  "kind": "books#volume",
+  "id": "_ojXNuzgHRcC",
+  "etag": "mD/Sz2CRsgs",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/_ojXNuzgHRcC",
+  "volumeInfo": {
+    "title": "Flowers",
+    "authors": [
+      "Vijaya Bodach"
+    ],
+    "publisher": "Capstone",
+    "publishedDate": "2006-07",
+    "description": "Discover the beautiful science of flowers! Through full-color photos and simple, easy-to-follow text, this nonfiction book introduces emergent readers to the basics of botany, including information on how flowers grow, along with their uses. All Pebble Plus books align with national and state standards and are designed to help new readers read independently, making them the perfect choice for every child.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "0736896198"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9780736896191"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": true
+    },
+    "pageCount": 24,
+    "printedPageCount": 28,
+    "dimensions": {
+      "height": "22.90 cm",
+      "width": "27.90 cm",
+      "thickness": "0.20 cm"
+    },
+    "printType": "BOOK",
+    "categories": [
+      "Juvenile Nonfiction / Science & Nature / Flowers & Plants",
+      "Juvenile Nonfiction / Science & Nature / General"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.1.0.preview.1",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=_ojXNuzgHRcC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71Qu4fbUyemfezX0U4bQC6NDQvkb8VjmPW6QR-uyIeE6ycrH3diIYH6TTB5W_FagL0_LgwzjGQRSchVv7bk4AhPvoB4w4J8Tmx794CfBc9HajGusjkFMPCoi7iivv-24g3Jln87&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=_ojXNuzgHRcC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70rJihwI34dHDdZ5yUpui4xNNf9rS0prw3x4SrPWWFv3VE884gb_hwEYbo-otXQ1zZNhFt49vlhjVoti6g0bHWllE9MlwG0tOIqokH8JiOltDzIalGSTZrj0L0rRsVTKKJ74vPY&source=gbs_api",
+      "small": "http://books.google.com/books/content?id=_ojXNuzgHRcC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70T-08TuK51trDuOZr3nJF1O9XOVm1Gkbx4611laOnrIIzxmy0cWhekDgtw5YrHX8xCc1xE_O1E9mAz9wJdRT7FyCaym488AI6PlEtAHvLc8-EJvTz1mPJJCmMN_lY_SVMqb45Q&source=gbs_api",
+      "medium": "http://books.google.com/books/content?id=_ojXNuzgHRcC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE73mTfSCgNc46T7yw-2gi7a-2GIOhTxeihCe7BugnTqvi_Kv3LOM8wD_ZRVfCTQE_MqF3Hh1u3HB5QBqpbTo3Bk9LknkwVc55Pj6Mc5XazR2VKq3yGS8O5vUnPymGSBSd3m4Psaq&source=gbs_api",
+      "large": "http://books.google.com/books/content?id=_ojXNuzgHRcC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73vk4gO3tkxKvHO2ETWOGdG0t9ggaqZynkJUikir3RrCOVQMl6vQn9KBvn3bO0Mg_HIJx6yPuIipH0JhF3TX237J1yIEOaePCZmhrgWZqAWhSgntFHt0dDth_T4ZFs1cPvaZil5&source=gbs_api",
+      "extraLarge": "http://books.google.com/books/content?id=_ojXNuzgHRcC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70WQbui1ZyPDEGdSHijfYCyB1j8XTCkda6QfFwCB3t0B_yPDFJmJQcKbSpyOHuuugkHWBn9_OclO0jY5VmA5NhpF95UIqxiEpIEONhTzBYftGd-z6vk9WcoHQH_QqX1C8NDZWUD&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.ru/books?id=_ojXNuzgHRcC&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=_ojXNuzgHRcC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_ojXNuzgHRcC"
+  },
+  "saleInfo": {
+    "country": "RU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "RU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_ojXNuzgHRcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}

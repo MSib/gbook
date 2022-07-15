@@ -1,10 +1,13 @@
 <script setup>
+import Pagination from '@/components/Pagination.vue'
 import { useAppStore } from '@/stores/app'
+import { useSearchStore } from '@/stores/search'
 import { storeToRefs } from 'pinia'
 import { stringsArrayToString } from '@/utils'
 
 const storeApp = useAppStore()
-const { result } = storeToRefs(storeApp)
+const storeSearch = useSearchStore()
+const { result } = storeToRefs(storeSearch)
 const { setResult, setOpenBook } = storeApp
 
 function openBook(e) {
@@ -15,8 +18,13 @@ function openBook(e) {
 }
 </script>
 <template>
-  <div class="catalog-wrap">
-    <ul v-if="result?.items" class="catalog">
+  <div v-if="result" class="total">
+    <p v-if="result?.totalItems === 0" class="total__empty">Ничего не нашлось</p>
+    <p v-else-if="result?.totalItems" class="total__result">Результатов: {{ result?.totalItems }}</p>
+  </div>
+
+  <div v-if="result?.items" class="catalog-wrap">
+    <ul class="catalog">
       <li v-for="item in result.items" :key="item.etag" class="item">
         <img v-if="item.volumeInfo?.imageLinks?.thumbnail" :src="item.volumeInfo?.imageLinks?.thumbnail" width="240"
           class="item__cover" alt="">
@@ -29,9 +37,28 @@ function openBook(e) {
         }}</p>
       </li>
     </ul>
+    <Pagination />
   </div>
 </template>
 <style scoped>
+.total {
+  font-style: italic;
+}
+
+.total__empty {
+  padding: 20px;
+}
+
+.total__result {
+  padding: 20px 20px 0;
+  font-style: italic;
+  font-size: 75%;
+}
+
+.catalog-wrap {
+  display: grid;
+}
+
 .catalog {
   margin: 20px;
   padding-left: 0;

@@ -8,8 +8,8 @@ import { useAppStore } from '@/stores/app'
 import { storeToRefs } from 'pinia'
 
 const storeApp = useAppStore()
-const { appElement, openBook } = storeToRefs(storeApp)
-const { setAppElement, clearOpenBook } = storeApp
+const { openBook } = storeToRefs(storeApp)
+const { clearOpenBook } = storeApp
 
 storeApp.$subscribe(checkSubscribeEvent)
 
